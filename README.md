@@ -1,6 +1,6 @@
-# Book Management Web Application 📚
+# ReadRover 📚
 
-Manage your book collection efficiently with our intuitive web application built using React, Node.js, Express, and Axios.
+With ReadRover you can manage your book collection efficiently with our intuitive web application built using React, Node.js, Express, and Axios.
 
 ## Features
 
